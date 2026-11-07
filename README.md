@@ -22,4 +22,4 @@
 
 ## Запуск
 
-Застосунок відкривається у браузері за адресою `http://localhost:5173`, а API-сервер на `http://localhost:3000/api/v1`.
+Застосунок відкривається у браузері за адресою `http://localhost:5173`, API-сервер на `http://localhost:3000/api/v1`, WebSocket на `ws://localhost:3000`.
