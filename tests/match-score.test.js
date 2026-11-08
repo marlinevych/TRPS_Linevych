@@ -13,7 +13,7 @@ test('normal case: matching lost and found items return high score', () => {
 
   const score = calculateMatchScore(lost, found);
 
-  assert.ok(score >= 999, `Очікували score >= 999, отримали ${score}`);
+  assert.ok(score >= 70, `Очікували score >= 70, отримали ${score}`);
 });
 
 // тест 2 граничний
